@@ -16,5 +16,10 @@ namespace BTL_LTTQ_BIDA
         {
             InitializeComponent();
         }
+
+        private void btnThemHD_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
