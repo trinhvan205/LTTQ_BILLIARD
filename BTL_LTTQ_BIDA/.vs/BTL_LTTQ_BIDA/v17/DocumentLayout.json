@@ -3,52 +3,36 @@
   "WorkspaceRootPath": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|d:\\btl_lttq\\btl_lttq_bida\\btl_lttq_bida\\data\\dataconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|solutionrelative:btl_lttq_bida\\data\\dataconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|d:\\btl_lttq\\btl_lttq_bida\\btl_lttq_bida\\forms\\account\\accounttoapprovedlg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|solutionrelative:btl_lttq_bida\\forms\\account\\accounttoapprovedlg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|d:\\btl_lttq\\btl_lttq_bida\\btl_lttq_bida\\forms\\account\\accountinfodlg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|solutionrelative:btl_lttq_bida\\forms\\account\\accountinfodlg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|d:\\btl_lttq\\btl_lttq_bida\\btl_lttq_bida\\forms\\table\\addtabledlg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|solutionrelative:btl_lttq_bida\\forms\\table\\addtabledlg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|d:\\btl_lttq\\btl_lttq_bida\\btl_lttq_bida\\forms\\bill\\fhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|solutionrelative:btl_lttq_bida\\forms\\bill\\fhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|d:\\btl_lttq\\btl_lttq_bida\\btl_lttq_bida\\forms\\bill\\faddhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|solutionrelative:btl_lttq_bida\\forms\\bill\\faddhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|d:\\btl_lttq\\btl_lttq_bida\\btl_lttq_bida\\forms\\table\\fchangetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|solutionrelative:btl_lttq_bida\\forms\\table\\fchangetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|d:\\btl_lttq\\btl_lttq_bida\\btl_lttq_bida\\forms\\main\\signupdlg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|solutionrelative:btl_lttq_bida\\forms\\main\\signupdlg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|d:\\btl_lttq\\btl_lttq_bida\\btl_lttq_bida\\forms\\main\\logindlg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|solutionrelative:btl_lttq_bida\\forms\\main\\logindlg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|d:\\btl_lttq\\btl_lttq_bida\\btl_lttq_bida\\forms\\main\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|solutionrelative:btl_lttq_bida\\forms\\main\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|d:\\btl_lttq\\btl_lttq_bida\\btl_lttq_bida\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|solutionrelative:btl_lttq_bida\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|d:\\btl_lttq\\btl_lttq_bida\\btl_lttq_bida\\forms\\service\\faddservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|solutionrelative:btl_lttq_bida\\forms\\service\\faddservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|d:\\btl_lttq\\btl_lttq_bida\\btl_lttq_bida\\forms\\main\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|solutionrelative:btl_lttq_bida\\forms\\main\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|d:\\btl_lttq\\btl_lttq_bida\\btl_lttq_bida\\forms\\table\\addtabledlg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|solutionrelative:btl_lttq_bida\\forms\\table\\addtabledlg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|d:\\btl_lttq\\btl_lttq_bida\\btl_lttq_bida\\forms\\account\\accountinfodlg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|solutionrelative:btl_lttq_bida\\forms\\account\\accountinfodlg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|d:\\btl_lttq\\btl_lttq_bida\\btl_lttq_bida\\forms\\account\\accounttoapprovedlg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|solutionrelative:btl_lttq_bida\\forms\\account\\accounttoapprovedlg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|d:\\btl_lttq\\btl_lttq_bida\\btl_lttq_bida\\forms\\bill\\faddhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|solutionrelative:btl_lttq_bida\\forms\\bill\\faddhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|d:\\btl_lttq\\btl_lttq_bida\\btl_lttq_bida\\forms\\main\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|solutionrelative:btl_lttq_bida\\forms\\main\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|d:\\btl_lttq\\btl_lttq_bida\\btl_lttq_bida\\forms\\account\\accountinfodlg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|solutionrelative:btl_lttq_bida\\forms\\account\\accountinfodlg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,63 +50,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DataConnect.cs",
-              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Data\\DataConnect.cs",
-              "RelativeDocumentMoniker": "BTL_LTTQ_BIDA\\Data\\DataConnect.cs",
-              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Data\\DataConnect.cs",
-              "RelativeToolTip": "BTL_LTTQ_BIDA\\Data\\DataConnect.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T16:34:25.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccountToApproveDlg.cs [Design]",
-              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Account\\AccountToApproveDlg.cs",
-              "RelativeDocumentMoniker": "BTL_LTTQ_BIDA\\Forms\\Account\\AccountToApproveDlg.cs",
-              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Account\\AccountToApproveDlg.cs [Design]",
-              "RelativeToolTip": "BTL_LTTQ_BIDA\\Forms\\Account\\AccountToApproveDlg.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T16:31:44.641Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AccountInfoDlg.cs [Design]",
-              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Account\\AccountInfoDlg.cs",
-              "RelativeDocumentMoniker": "BTL_LTTQ_BIDA\\Forms\\Account\\AccountInfoDlg.cs",
-              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Account\\AccountInfoDlg.cs [Design]",
-              "RelativeToolTip": "BTL_LTTQ_BIDA\\Forms\\Account\\AccountInfoDlg.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T16:31:32.109Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "AddTableDlg.cs [Design]",
               "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Table\\AddTableDlg.cs",
               "RelativeDocumentMoniker": "BTL_LTTQ_BIDA\\Forms\\Table\\AddTableDlg.cs",
               "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Table\\AddTableDlg.cs [Design]",
               "RelativeToolTip": "BTL_LTTQ_BIDA\\Forms\\Table\\AddTableDlg.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T16:25:07.854Z",
+              "WhenOpened": "2025-10-28T07:01:54.329Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountInfoDlg.cs [Design]",
+              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Account\\AccountInfoDlg.cs",
+              "RelativeDocumentMoniker": "BTL_LTTQ_BIDA\\Forms\\Account\\AccountInfoDlg.cs",
+              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Account\\AccountInfoDlg.cs [Design]",
+              "RelativeToolTip": "BTL_LTTQ_BIDA\\Forms\\Account\\AccountInfoDlg.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T05:31:30.174Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "FHoaDon.cs [Design]",
-              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Bill\\FHoaDon.cs",
-              "RelativeDocumentMoniker": "BTL_LTTQ_BIDA\\Forms\\Bill\\FHoaDon.cs",
-              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Bill\\FHoaDon.cs [Design]",
-              "RelativeToolTip": "BTL_LTTQ_BIDA\\Forms\\Bill\\FHoaDon.cs [Design]",
+              "Title": "AccountToApproveDlg.cs [Design]",
+              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Account\\AccountToApproveDlg.cs",
+              "RelativeDocumentMoniker": "BTL_LTTQ_BIDA\\Forms\\Account\\AccountToApproveDlg.cs",
+              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Account\\AccountToApproveDlg.cs [Design]",
+              "RelativeToolTip": "BTL_LTTQ_BIDA\\Forms\\Account\\AccountToApproveDlg.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T16:23:19.717Z",
+              "WhenOpened": "2025-10-28T05:47:52.323Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FAddService.cs [Design]",
+              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Service\\FAddService.cs",
+              "RelativeDocumentMoniker": "BTL_LTTQ_BIDA\\Forms\\Service\\FAddService.cs",
+              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Service\\FAddService.cs [Design]",
+              "RelativeToolTip": "BTL_LTTQ_BIDA\\Forms\\Service\\FAddService.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T06:17:29.109Z",
               "EditorCaption": " [Design]"
             },
             {
@@ -134,80 +105,46 @@
               "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Bill\\FAddHD.cs [Design]",
               "RelativeToolTip": "BTL_LTTQ_BIDA\\Forms\\Bill\\FAddHD.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T16:22:49.584Z",
+              "WhenOpened": "2025-10-28T06:23:48.198Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Program.cs",
+              "RelativeDocumentMoniker": "BTL_LTTQ_BIDA\\Program.cs",
+              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Program.cs",
+              "RelativeToolTip": "BTL_LTTQ_BIDA\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADgvxUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T05:54:50.263Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "FChangeTable.cs [Design]",
-              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Table\\FChangeTable.cs",
-              "RelativeDocumentMoniker": "BTL_LTTQ_BIDA\\Forms\\Table\\FChangeTable.cs",
-              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Table\\FChangeTable.cs [Design]",
-              "RelativeToolTip": "BTL_LTTQ_BIDA\\Forms\\Table\\FChangeTable.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T16:22:35.842Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SignUpDlg.cs [Design]",
-              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Main\\SignUpDlg.cs",
-              "RelativeDocumentMoniker": "BTL_LTTQ_BIDA\\Forms\\Main\\SignUpDlg.cs",
-              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Main\\SignUpDlg.cs [Design]",
-              "RelativeToolTip": "BTL_LTTQ_BIDA\\Forms\\Main\\SignUpDlg.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T16:22:24.281Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LoginDlg.cs [Design]",
-              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Main\\LoginDlg.cs",
-              "RelativeDocumentMoniker": "BTL_LTTQ_BIDA\\Forms\\Main\\LoginDlg.cs",
-              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Main\\LoginDlg.cs [Design]",
-              "RelativeToolTip": "BTL_LTTQ_BIDA\\Forms\\Main\\LoginDlg.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T16:21:24.878Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "AdminMenu.cs [Design]",
               "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Main\\AdminMenu.cs",
               "RelativeDocumentMoniker": "BTL_LTTQ_BIDA\\Forms\\Main\\AdminMenu.cs",
               "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Main\\AdminMenu.cs [Design]",
               "RelativeToolTip": "BTL_LTTQ_BIDA\\Forms\\Main\\AdminMenu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T16:21:01.056Z",
+              "WhenOpened": "2025-10-28T06:17:08.384Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FAddService.cs [Design]",
-              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Service\\FAddService.cs",
-              "RelativeDocumentMoniker": "BTL_LTTQ_BIDA\\Forms\\Service\\FAddService.cs",
-              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Service\\FAddService.cs [Design]",
-              "RelativeToolTip": "BTL_LTTQ_BIDA\\Forms\\Service\\FAddService.cs [Design]",
+              "DocumentIndex": 7,
+              "Title": "AccountInfoDlg.cs",
+              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Account\\AccountInfoDlg.cs",
+              "RelativeDocumentMoniker": "BTL_LTTQ_BIDA\\Forms\\Account\\AccountInfoDlg.cs",
+              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Account\\AccountInfoDlg.cs",
+              "RelativeToolTip": "BTL_LTTQ_BIDA\\Forms\\Account\\AccountInfoDlg.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAWwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T16:17:32.037Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FMain.cs [Design]",
-              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Main\\FMain.cs",
-              "RelativeDocumentMoniker": "BTL_LTTQ_BIDA\\Forms\\Main\\FMain.cs",
-              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Main\\FMain.cs [Design]",
-              "RelativeToolTip": "BTL_LTTQ_BIDA\\Forms\\Main\\FMain.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T16:14:47.761Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-28T05:39:00.426Z",
+              "EditorCaption": ""
             }
           ]
         }
