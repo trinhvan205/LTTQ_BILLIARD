@@ -71,17 +71,17 @@
     <Compile Include="Forms\Bill\FAddHD.Designer.cs">
       <DependentUpon>FAddHD.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\Table\AddTableDlg.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Forms\Table\AddTableDlg.Designer.cs">
-      <DependentUpon>AddTableDlg.cs</DependentUpon>
-    </Compile>
     <Compile Include="Forms\Table\FChangeTable.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Forms\Table\FChangeTable.Designer.cs">
       <DependentUpon>FChangeTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Table\AddTableDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Table\AddTableDlg.Designer.cs">
+      <DependentUpon>AddTableDlg.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\Bill\FHoaDon.cs">
       <SubType>Form</SubType>
