@@ -104,3 +104,37 @@ __pycache__/
 # Windows image cache
 ehthumbs.db
 Desktop.ini
+
+
+###############################
+# 🧱 Custom rules for BTL_LTTQ_BIDA #
+###############################
+
+# Ignore Visual Studio temp data for your project
+BTL_LTTQ_BIDA/.vs/
+BTL_LTTQ_BIDA/bin/
+BTL_LTTQ_BIDA/obj/
+BTL_LTTQ_BIDA/BTL_LTTQ_BIDA/bin/
+BTL_LTTQ_BIDA/BTL_LTTQ_BIDA/obj/
+
+# Ignore Copilot and cache files
+BTL_LTTQ_BIDA/.vs/BTL_LTTQ_BIDA/CopilotIndices/
+BTL_LTTQ_BIDA/.vs/BTL_LTTQ_BIDA/FileContentIndex/
+
+# Ignore all Visual Studio project and solution files
+*.csproj
+*.sln
+
+# Optional: ignore publishing, backup, and test folders
+*.PublishSettings
+publish/
+backup/
+test/
+
+# Keep important source files tracked
+!*.cs
+!*.resx
+!*.config
+!*.json
+!*.xml
+!.gitignore
