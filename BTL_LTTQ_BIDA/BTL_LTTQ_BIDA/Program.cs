@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BTL_LTTQ_BIDA.Forms.Main;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,7 +17,7 @@ namespace BTL_LTTQ_BIDA
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FMain());
+            Application.Run(new FHoaDon());
         }
     }
 }

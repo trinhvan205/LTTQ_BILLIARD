@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\",
+  "WorkspaceRootPath": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhTrucQuan\\LTTQ_BILLIARD\\BTL_LTTQ_BIDA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|d:\\btl_lttq\\btl_lttq_bida\\btl_lttq_bida\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|solutionrelative:btl_lttq_bida\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|D:\\K\u00EC 1 n\u0103m 3\\LapTrinhTrucQuan\\LTTQ_BILLIARD\\BTL_LTTQ_BIDA\\btl_lttq_bida\\forms\\bill\\fhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|solutionrelative:btl_lttq_bida\\forms\\bill\\fhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhtrucquan\\lttq_billiard\\btl_lttq_bida\\btl_lttq_bida\\forms\\bill\\fhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|solutionrelative:btl_lttq_bida\\forms\\bill\\fhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|D:\\K\u00EC 1 n\u0103m 3\\LapTrinhTrucQuan\\LTTQ_BILLIARD\\BTL_LTTQ_BIDA\\btl_lttq_bida\\forms\\bill\\faddhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|solutionrelative:btl_lttq_bida\\forms\\bill\\faddhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|d:\\k\u00EC 1 n\u0103m 3\\laptrinhtrucquan\\lttq_billiard\\btl_lttq_bida\\btl_lttq_bida\\forms\\bill\\faddhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2CA021-D684-4B14-87F9-3B3FA0CF72B0}|BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA.csproj|solutionrelative:btl_lttq_bida\\forms\\bill\\faddhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,22 +26,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Form1.cs",
-              "RelativeDocumentMoniker": "BTL_LTTQ_BIDA\\Form1.cs",
-              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Form1.cs [Design]",
-              "RelativeToolTip": "BTL_LTTQ_BIDA\\Form1.cs [Design]",
+              "DocumentIndex": 3,
+              "Title": "FAddHD.cs",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhTrucQuan\\LTTQ_BILLIARD\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Bill\\FAddHD.cs",
+              "RelativeDocumentMoniker": "BTL_LTTQ_BIDA\\Forms\\Bill\\FAddHD.cs",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhTrucQuan\\LTTQ_BILLIARD\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Bill\\FAddHD.cs",
+              "RelativeToolTip": "BTL_LTTQ_BIDA\\Forms\\Bill\\FAddHD.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAApwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T16:14:47.761Z",
+              "WhenOpened": "2025-10-28T06:56:28.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FAddHD.cs [Design]",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhTrucQuan\\LTTQ_BILLIARD\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Bill\\FAddHD.cs",
+              "RelativeDocumentMoniker": "BTL_LTTQ_BIDA\\Forms\\Bill\\FAddHD.cs",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhTrucQuan\\LTTQ_BILLIARD\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Bill\\FAddHD.cs [Design]",
+              "RelativeToolTip": "BTL_LTTQ_BIDA\\Forms\\Bill\\FAddHD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T16:22:49.584Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FHoaDon.cs",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhTrucQuan\\LTTQ_BILLIARD\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Bill\\FHoaDon.cs",
+              "RelativeDocumentMoniker": "BTL_LTTQ_BIDA\\Forms\\Bill\\FHoaDon.cs",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhTrucQuan\\LTTQ_BILLIARD\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Bill\\FHoaDon.cs",
+              "RelativeToolTip": "BTL_LTTQ_BIDA\\Forms\\Bill\\FHoaDon.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T05:56:08.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhTrucQuan\\LTTQ_BILLIARD\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Bill\\FHoaDon.cs",
+              "RelativeDocumentMoniker": "BTL_LTTQ_BIDA\\Forms\\Bill\\FHoaDon.cs",
+              "ToolTip": "D:\\K\u00EC 1 n\u0103m 3\\LapTrinhTrucQuan\\LTTQ_BILLIARD\\BTL_LTTQ_BIDA\\BTL_LTTQ_BIDA\\Forms\\Bill\\FHoaDon.cs [Design]",
+              "RelativeToolTip": "BTL_LTTQ_BIDA\\Forms\\Bill\\FHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T16:23:19.717Z",
               "EditorCaption": " [Design]"
             }
           ]
