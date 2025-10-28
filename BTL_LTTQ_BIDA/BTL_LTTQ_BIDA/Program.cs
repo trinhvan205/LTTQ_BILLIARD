@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using BTL_LTTQ_BIDA.Forms.Main;
 
 namespace BTL_LTTQ_BIDA
 {
@@ -16,7 +17,7 @@ namespace BTL_LTTQ_BIDA
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FMain());
+            Application.Run(new LoginDlg());
         }
     }
 }

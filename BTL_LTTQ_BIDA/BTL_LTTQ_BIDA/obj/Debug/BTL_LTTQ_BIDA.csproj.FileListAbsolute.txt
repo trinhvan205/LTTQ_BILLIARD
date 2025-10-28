@@ -1,0 +1,12 @@
+G:\code-tren-lop\LTTQ_BILLIARD\BTL_LTTQ_BIDA\BTL_LTTQ_BIDA\bin\Debug\BTL_LTTQ_BIDA.exe.config
+G:\code-tren-lop\LTTQ_BILLIARD\BTL_LTTQ_BIDA\BTL_LTTQ_BIDA\bin\Debug\BTL_LTTQ_BIDA.exe
+G:\code-tren-lop\LTTQ_BILLIARD\BTL_LTTQ_BIDA\BTL_LTTQ_BIDA\bin\Debug\BTL_LTTQ_BIDA.pdb
+G:\code-tren-lop\LTTQ_BILLIARD\BTL_LTTQ_BIDA\BTL_LTTQ_BIDA\obj\Debug\BTL_LTTQ_BIDA.csproj.AssemblyReference.cache
+G:\code-tren-lop\LTTQ_BILLIARD\BTL_LTTQ_BIDA\BTL_LTTQ_BIDA\obj\Debug\BTL_LTTQ_BIDA.FMain.resources
+G:\code-tren-lop\LTTQ_BILLIARD\BTL_LTTQ_BIDA\BTL_LTTQ_BIDA\obj\Debug\BTL_LTTQ_BIDA.Properties.Resources.resources
+G:\code-tren-lop\LTTQ_BILLIARD\BTL_LTTQ_BIDA\BTL_LTTQ_BIDA\obj\Debug\BTL_LTTQ_BIDA.csproj.GenerateResource.cache
+G:\code-tren-lop\LTTQ_BILLIARD\BTL_LTTQ_BIDA\BTL_LTTQ_BIDA\obj\Debug\BTL_LTTQ_BIDA.csproj.CoreCompileInputs.cache
+G:\code-tren-lop\LTTQ_BILLIARD\BTL_LTTQ_BIDA\BTL_LTTQ_BIDA\obj\Debug\BTL_LTTQ_BIDA.exe
+G:\code-tren-lop\LTTQ_BILLIARD\BTL_LTTQ_BIDA\BTL_LTTQ_BIDA\obj\Debug\BTL_LTTQ_BIDA.pdb
+G:\code-tren-lop\LTTQ_BILLIARD\BTL_LTTQ_BIDA\BTL_LTTQ_BIDA\obj\Debug\BTL_LTTQ_BIDA.exe.config
+G:\code-tren-lop\LTTQ_BILLIARD\BTL_LTTQ_BIDA\BTL_LTTQ_BIDA\obj\Debug\BTL_LTTQ_BIDA.Forms.Main.LoginDlg.resources
